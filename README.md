@@ -1,3 +1,3 @@
-# Addon Name
+# TomTom
 
-This is the repository for <Addon Name>. Modified for Ascension.gg. 
+This is the repository for TomTom. Modified for Ascension.gg. 
